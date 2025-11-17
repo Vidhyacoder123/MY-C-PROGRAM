@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(){
+    float x=5.5;
+    int y;
+    printf("x=%2f\n,x");
+    printf("y=%d\n,y");
+
+
+    return 0;
+}
