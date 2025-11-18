@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+{
+    int marks;
+    printf("enetr the marks");
+    scanf("%d",&marks);
+    if(marks<40)
+    printf("fail");
+    else if (marks<50)
+    printf("just pass");
+      else if (marks<60)
+    printf("2nd class");
+  
+       else if (marks<70)
+    printf("1st class");
+    
+         else if (marks<90)
+    printf(" distinction");
+    
+           else printf("outstanding");
+    return 0;
+}
