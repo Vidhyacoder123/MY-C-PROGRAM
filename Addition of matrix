@@ -10,8 +10,8 @@ for (int j = 0; j < cols; j++) {
 scanf("%d", &a[i][j]);
 }
 }
-printf("Enter elements of matrix B:\n"); Prepared By,
-Er. M. RAJESH KANNAN. ME.,
+printf("Enter elements of matrix B:\n"); 
+
 for (int j = 0; j < cols; j++) {
 scanf("%d", &b[i][j]);
 }
