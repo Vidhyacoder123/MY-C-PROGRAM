@@ -1,4 +1,4 @@
-Program:9: incriment pointer 
+
 #include<stdio.h>
 int main(){
     int x[] ={10,20,30};
